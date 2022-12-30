@@ -1,1 +1,4 @@
 # ant-colony-optimization
+[![npm version](https://img.shields.io/npm/v/@alsk/ant-colony-optimization)](https://www.npmjs.com/package/@alsk/ant-colony-optimization) [![install size](https://img.shields.io/badge/dynamic/json?url=https://packagephobia.com/v2/api.json?p=@alsk/ant-colony-optimization&query=$.install.pretty&label=install%20size&style=flat-square)](https://packagephobia.now.sh/result?p=@alsk/ant-colony-optimization) ![check-code-coverage](https://img.shields.io/badge/code--coverage-80.95%25-green) ![npm type definitions](https://img.shields.io/npm/types/@alsk/ant-colony-optimization) ![NPM](https://img.shields.io/npm/l/@alsk/ant-colony-optimization)
+
+### In development...
